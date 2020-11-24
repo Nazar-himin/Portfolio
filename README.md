@@ -4,7 +4,7 @@
 _____
 <a href="https://zimin.video/">Zimin Video</a>
 _____
-<a href="https://nimroddanielm.sg-host.com/">Amir Maayan Medical Massage</a>
+<a href="https://www.amirmassage.co.il/">Amir Maayan Medical Massage</a>
 _____
 <a href="https://www.caspi-group.co.il/">Caspi</a> 
 _____
