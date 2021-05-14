@@ -27,6 +27,8 @@ _____
 _____
 <a href="https://arianlev-treatments.ussl.co.il/">ArianLev</a>
 _____
+<a href="http://p36099-290-15677.s290.upress.link/">Tal Padan</a>
+_____
 <a href="https://nazar-himin.github.io/js-project/">Stephen King Books</a>
 _____
 <a href="https://nazar-himin.github.io/Tetris/">Tetris</a>
