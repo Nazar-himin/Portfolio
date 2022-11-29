@@ -21,19 +21,11 @@ _____
 _____
 <a href="https://www.amirmassage.co.il/" target="_blank">Amir Maayan Medical Massage</a>
 _____
-<a href="https://webinar.alexandramelano.com/" target="_blank">Alexandra Melano Landing</a>
-_____
 <a href="https://www.caspi-group.co.il/" target="_blank">Caspi</a> 
 _____
 <a href="https://dvg.co.il/" target="_blank">DVG</a> 
 _____
-<a href="https://www.gi-cpa.co.il/" target="_blank">Gi-spa</a>
-_____
 <a href="http://mnayedet.co.il/" target="_blank">Mnayedet</a>
-_____
-<a href="https://www.pooltronic.co.il/" target="_blank">Pooltronic</a>
-_____
-<a href="https://arianlev-treatments.ussl.co.il/" target="_blank">ArianLev</a>
 _____
 <a href="http://p36099-290-15677.s290.upress.link/" target="_blank">Tal Padan</a>
 _____
