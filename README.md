@@ -10,6 +10,8 @@ _____
 _____
 <a href="https://zimin.video/" target="_blank">Zimin Video</a>
 _____
+<a href="https://pulsarua.com/" target="_blank">Pulsar</a>
+_____
 <a href="https://landing.coditt.com/outsourcing/
 " target="_blank">Coddit Landing</a>
 _____
