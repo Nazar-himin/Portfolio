@@ -1,6 +1,6 @@
 # Portfolio
 
-<a href="https://marinaraphael.com/" target="_blank">Marina Raphael</a>
+<a href="https://marinaraphael.com/" target="_blank" class="link">Marina Raphael</a>
 _____
 <a href="http://avtover.com/" target="_blank">Avtover</a>
 _____
