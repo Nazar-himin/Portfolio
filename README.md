@@ -22,6 +22,8 @@ _____
 _____
 <a href="https://www.caspi-group.co.il/" target="_blank">Caspi</a> 
 _____
+<a href="https://barzilaynet.co.il/" target="_blank">BarzilayNet</a>
+_____
 <a href="http://p36099-290-15677.s290.upress.link/" target="_blank">Tal Padan</a>
 _____
 <a href="http://mnayedet.co.il/" target="_blank">Mnayedet</a>
