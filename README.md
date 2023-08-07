@@ -12,8 +12,7 @@ _____
 _____
 <a href="https://pulsarua.com/" target="_blank">Pulsar</a>
 _____
-<a href="https://landing.coditt.com/outsourcing/
-" target="_blank">Coddit Landing</a>
+<a href="https://dvg.co.il/" target="_blank">DVG</a> 
 _____
 <a href="https://yaacovoryahwines.com/" target="_blank">YaacovoryahWines</a>
 _____
@@ -23,11 +22,12 @@ _____
 _____
 <a href="https://www.caspi-group.co.il/" target="_blank">Caspi</a> 
 _____
-<a href="https://dvg.co.il/" target="_blank">DVG</a> 
+<a href="http://p36099-290-15677.s290.upress.link/" target="_blank">Tal Padan</a>
 _____
 <a href="http://mnayedet.co.il/" target="_blank">Mnayedet</a>
 _____
-<a href="http://p36099-290-15677.s290.upress.link/" target="_blank">Tal Padan</a>
+<a href="https://landing.coditt.com/outsourcing/
+" target="_blank">Coddit Landing</a>
 _____
 <a href="https://nazar-himin.github.io/js-project/" target="_blank">Stephen King Books</a>
 _____
