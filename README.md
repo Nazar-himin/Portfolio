@@ -14,6 +14,8 @@ _____
 _____
 <a href="https://thisisfrom.co/" target="_blank">Thisisfrom</a>
 _____
+<a href="https://million-kisot.co.il/" target="_blank">Million-kisot</a>
+_____
 <a href="https://romexpress.co.il/" target="_blank">RomExpress</a>
 _____
 <a href="https://zimin.video/" target="_blank">Zimin Video</a>
