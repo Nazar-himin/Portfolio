@@ -8,6 +8,8 @@ _____
 _____
 <a href="https://jataro.co.il/" target="_blank">Jataro</a>
 _____
+<a href="https://habalkon.com/" target="_blank">Habalkon</a>
+_____
 <a href="https://rivneagency.com/" target="_blank">Rivneagency</a>
 _____
 <a href="https://ckdigital360.co.il/" target="_blank">Ckdigital360</a>
