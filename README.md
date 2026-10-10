@@ -19,6 +19,8 @@ _____
 _____
 <a href="https://laret.co.il/" target="_blank">Laret</a>
 _____
+<a href="https://clubhouseamit.org.il/" target="_blank">clubhouseamit</a>
+_____
 <a href="https://beer-hathiya.co.il/" target="_blank">Beer Hathiya</a>
 _____
 <a href="https://million-kisot.co.il/" target="_blank">Million-kisot</a>
